@@ -12,7 +12,7 @@ def test_01():
     """
     ---< Input/Output test case >----------------------------------------------------
     Pregunta 01
-    pip3 install scikit-learn==1.0.2 pandas==1.1.5 numpy
+    pip3 install scikit-learn pandas numpy
     python3 tests.py 01
     """
 
@@ -27,7 +27,7 @@ def test_02():
     """
     ---< Input/Output test case >----------------------------------------------------
     Pregunta 02
-    pip3 install scikit-learn==1.0.2 pandas==1.1.5 numpy
+    pip3 install scikit-learn pandas numpy
     python3 tests.py 02
     """
 
@@ -53,7 +53,7 @@ def test_03():
     """
     ---< Run command >-----------------------------------------------------------------
     Pregunta 03
-    pip3 install scikit-learn==1.0.2 pandas==1.1.5 numpy
+    pip3 install scikit-learn pandas numpy
     python3 tests.py 03
     """
 
@@ -68,7 +68,7 @@ def test_04():
     """
     ---< Run command >--------------------------------------------------------------------
     Pregunta 04
-    pip3 install scikit-learn==1.0.2 pandas==1.1.5 numpy
+    pip3 install scikit-learn pandas numpy
     python3 tests.py 04
     """
 
